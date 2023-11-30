@@ -1,6 +1,27 @@
-👋Hello World! I'm Arjun, a passionate Full Stack Developer in the making! 💻Currently on a thrilling coding journey as a student, I'm exploring the vast realms of both front-end and back-end development.
-🚀Tech Toolbox:
-languages: HTML,CSS,JavaScript
-Frameworks: React.js,Node.js,Express.js(learning)
-Databases: MongoDB, MySQL
-Tools: Git, VS Code
+<h1>👋Hello World! I'm Arjun,</h1> 
+<h3>A passionate Full Stack Developer in the making!💻 <br> 
+Currently on a thrilling coding journey as a student.<br>
+I'm exploring the vast realms of both <span style="color:red;"><b>front-end and back-end development.</b></span></h3>
+<h3>🚀Tech Toolbox:
+<ul>
+  <li>languages: HTML,CSS,JavaScript</li>
+  <li>Frameworks: React.js,Node.js,Express.js(learning)</li>
+  <li>Databases: MongoDB, MySQL</li>
+  <li>Tools: Git, VS Code</li>
+</ul></h3>
+<!-- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmk4u&layout=compact"> -->
+
+<p align ="left">
+  <a href ="https://skillicons.dev">
+      <img src= "https://skillicons.dev/icons?i=html,css,javascript,python,/"> 
+      <img src= "https://skillicons.dev/icons?i=mongodb,express,react,nodejs,/"> 
+  </a>
+</p>
+
+<p align ="left">
+  <a href ="https://skillicons.dev">
+      <img src= "https://skillicons.dev/icons?i=c,cpp,mysql,r,/">
+      <img src= "https://skillicons.dev/icons?i=git,gitlab,github,vscode,/">
+    
+  </a>
+</p>
