@@ -9,8 +9,6 @@ I'm exploring the vast realms of both <span style="color:red;"><b>front-end and 
   <li>Databases: MongoDB, MySQL</li>
   <li>Tools: Git, VS Code</li>
 </ul></h3>
-<!-- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmk4u&layout=compact"> -->
-
 <p align ="left">
   <a href ="https://skillicons.dev">
       <img src= "https://skillicons.dev/icons?i=html,css,javascript,python,/"> 
@@ -22,6 +20,8 @@ I'm exploring the vast realms of both <span style="color:red;"><b>front-end and 
   <a href ="https://skillicons.dev">
       <img src= "https://skillicons.dev/icons?i=c,cpp,mysql,r,/">
       <img src= "https://skillicons.dev/icons?i=git,gitlab,github,vscode,/">
-    
   </a>
+</p>
+<p>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmk4u&layout=compact">
 </p>
