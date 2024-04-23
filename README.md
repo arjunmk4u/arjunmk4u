@@ -5,7 +5,7 @@ I'm exploring the vast realms of both <span style="color:red;"><b>front-end and 
 <h3>🚀Tech Toolbox:
 <ul>
   <li>languages: HTML,CSS,JavaScript</li>
-  <li>Frameworks: React.js,Node.js,Express.js(learning)</li>
+  <li>Frameworks: Django, React.js,Node.js,Express.js(learning)</li>
   <li>Databases: MongoDB, MySQL</li>
   <li>Tools: Git, VS Code</li>
 </ul></h3>
